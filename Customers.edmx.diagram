@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="74066f54eb4c4acabe7eaeb66022bdce" Name="Diagram1">
+        <EntityTypeShape EntityType="CalMasterModel.aspnet_Applications" Width="1.5" PointX="0.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.aspnet_Membership" Width="1.5" PointX="6" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.aspnet_Paths" Width="1.5" PointX="3" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.aspnet_PersonalizationAllUsers" Width="1.5" PointX="5.25" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.aspnet_PersonalizationPerUser" Width="1.5" PointX="5.25" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.aspnet_Profile" Width="1.5" PointX="10.5" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.aspnet_Roles" Width="1.5" PointX="3" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.aspnet_SchemaVersions" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.aspnet_Users" Width="1.5" PointX="8.25" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.aspnet_WebEvent_Events" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.CALHistory" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.CALPlant1" Width="1.5" PointX="11.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.CALPlant2" Width="1.5" PointX="12.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.CALUpateInfo" Width="1.5" PointX="2.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.CrimpersCAL" Width="1.5" PointX="13.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.Plant1Track" Width="1.5" PointX="14.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.sysdiagram" Width="1.5" PointX="8.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.Training_Program" Width="1.5" PointX="12.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.vw_aspnet_Applications" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.vw_aspnet_MembershipUsers" Width="1.5" PointX="14.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.vw_aspnet_Profiles" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.vw_aspnet_Roles" Width="1.5" PointX="15.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.vw_aspnet_Users" Width="1.5" PointX="15.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.vw_aspnet_UsersInRoles" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.vw_aspnet_WebPartState_Paths" Width="1.5" PointX="5.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.vw_aspnet_WebPartState_Shared" Width="1.5" PointX="7.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CalMasterModel.vw_aspnet_WebPartState_User" Width="1.5" PointX="9.75" PointY="15.75" IsExpanded="true" />
+        <AssociationConnector Association="CalMasterModel.FK__aspnet_Me__Appli__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="CalMasterModel.FK__aspnet_Pa__Appli__05D8E0BE" ManuallyRouted="false" />
+        <AssociationConnector Association="CalMasterModel.FK__aspnet_Ro__Appli__6EF57B66" ManuallyRouted="false" />
+        <AssociationConnector Association="CalMasterModel.FK__aspnet_Us__Appli__38996AB5" ManuallyRouted="false" />
+        <AssociationConnector Association="CalMasterModel.FK__aspnet_Me__UserI__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="CalMasterModel.FK__aspnet_Pe__PathI__0D7A0286" ManuallyRouted="false" />
+        <AssociationConnector Association="CalMasterModel.FK__aspnet_Pe__PathI__1332DBDC" ManuallyRouted="false" />
+        <AssociationConnector Association="CalMasterModel.FK__aspnet_Pe__UserI__14270015" ManuallyRouted="false" />
+        <AssociationConnector Association="CalMasterModel.FK__aspnet_Pr__UserI__6383C8BA" ManuallyRouted="false" />
+        <AssociationConnector Association="CalMasterModel.aspnet_UsersInRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
