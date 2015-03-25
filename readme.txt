@@ -1,5 +1,6 @@
 Hello this is for test source control for git gitHub
 /add antoher line
+/add antoehr line again
 
 
  Insert Into [CalMaster].[dbo].[Training_Program1] ([Class_ID]
