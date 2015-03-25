@@ -1,3 +1,5 @@
+Hello this is for test source control for git gitHub
+
 
  Insert Into [CalMaster].[dbo].[Training_Program1] ([Class_ID]
       ,[ClassTitle]
